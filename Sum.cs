@@ -4,6 +4,6 @@ public class Sum{
     {
         int a=5;
         int b=6;
-       Console.Writeline(a+b);
+       Console.Writeline("Sum"+ (a+b));
     }
 }
